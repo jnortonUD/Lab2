@@ -1,5 +1,6 @@
 package pkgCore;
 import pkgEnum.*;
+
 public class Card implements Comparable {
 
 	//	TODO: Card has two attributes, eRank and eSuit, add these attributes
